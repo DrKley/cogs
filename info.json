@@ -1,8 +1,8 @@
 {
-    "author" : ["yourname (discord#identifer)"],
-    "install_msg" : "Message the user will recieve when they agree to install your repository.",
-    "name" : "Name of your repository.",
-    "short" : "Shot description of your repo.",
-    "description" : "Long description about your repository.",
-    "tags" : ["List of search tags on red portal for your repo."]
+    "author" : ["DrKley (DrKley#4647)"],
+    "install_msg" : "Kley Cog Branches and add-ons",
+    "name" : "ArcillaCogs",
+    "short" : "Kley Cog Branches and add-ons",
+    "description" : "Kley Cog Branches and add-ons",
+    "tags" : ["private repo"]
 }
